@@ -1,0 +1,71 @@
+==========================
+    REACT COURSE NOTES
+==========================
+
+Q: What is React js?
+    React is JavaScript Library.
+    React use to make web front-end application.
+    With React we make SPA (Single Page Application).
+
+Q: Why React js?
+    Fast because of virtual DOM
+    Easy to learn
+    Learning curve is also less  compare other UI technology
+    High demand and a lots of Job in market.
+    Large community.
+
+Q: More About React
+    Develop by Facebook
+    Current version is 19
+    After React we can easily learn React native also for mobile development
+
+Q: Prerequisite for React
+    Just Basic Understanding of JavaScript, HTML and CSS.
+
+Q: What we will learn in REact JS Course
+    set up | Basics | Hooks  | Form handling  | Routing | API calls | Advance concepts | React 19 features | Redux | Mini project | Tailwind with React | Main project | Interview Questioon | etc........
+
+Q: How to React Setup with Vite?
+    Install Node and NPM
+    Install VS code editor
+    Install Vite
+    Make React app
+    Interview Question
+
+Vite / Parcel -> It's used to setup any libraries and React applications.....
+
+Dowload vite:
+    npm create vite
+
+Comment {*/ .......  /*}
+
+Q: Why Vite for React Setup?
+    It's is a fast development server and build tool
+    Efficient Configuration
+    Simple Configuration.
+    TypeScript Support.
+    CSS pre processor | CSS Support
+
+Q: Write first code in React app?
+    Where to start writing your code React.js
+    Remove all code  from App.jsx file
+    Write Fresh code
+    Make First new File in React js
+
+    First Load index.html file 
+    Then go to -> main.jsx file
+    Then go again -> root id in html file
+    Then load -> App.jsx
+
+    All codes are edits in Components..
+
+    main.jsx contains CSS link 
+    main.jsx works is to combine App.jsx to index.html root id
+
+working function in App.jsx
+
+When we create components we should have to start in capital letter...
+
+When we create multiple works in component we must have to wrap ex: div
+
+jsx -> JavaScript xml
